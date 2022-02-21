@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there! 👋 Welcome on my GitHub profile!
 
-<!--
-**mKazmierczak1/mKazmierczak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Michał and I'm a student of Applied Computer Science at Wrocław University of Science and Technology. I love doing sports (football, cycling, working out). Since I was a child, I was also interested in computer games and their creation. I started my adventure with programming in middle school. I began with C++ and later turned for C#, in order to create games on the Unity engine and applications in Visual Studio. Currently, I write the most in Java.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on creating board games and implementing simple AI to them.
+- 🌱 I’m currently learning: JavaFX, Java Spring, Python.
+- 📫 How to reach me: mkazmierczak112@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mKazmierczak1&langs_count=30&layout=compact&show_icons=true&icon_color=34abeb&theme=radical&hide=Dockerfile,Assembly,CMake" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mKazmierczak1&show_icons=true&theme=radical" height="160"/>
+</div>
